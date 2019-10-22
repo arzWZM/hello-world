@@ -1,3 +1,6 @@
 file1 content
 
 Added new line
+
+
+More new lines
